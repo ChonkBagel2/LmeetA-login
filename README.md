@@ -2,7 +2,7 @@
 
 A simple two screen login and auto-login feature using jwt
 
-#Note - This is a very basic login screen just for demonstration purposes, in no way this should be considered as a working example.
+# Note - This is a very basic login screen just for demonstration purposes, in no way this should be considered as a working example.
 
 # Screenshots
 
